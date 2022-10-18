@@ -1,4 +1,4 @@
-import mongodb, { ObjectId } from "mongodb";
+import mongodb from "mongodb";
 const ObjectId = mongodb.ObjectId;
 
 let reviews;
