@@ -12,7 +12,6 @@ import Navbar from "react-bootstrap/Navbar";
 function App() {
   return (
     <div className="App">
-      Hello
       <Navbar bg="light" expand="lg">
         <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
