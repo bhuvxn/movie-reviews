@@ -20,7 +20,6 @@ function App() {
   }
   return (
     <div className="App">
-      home
       <Navbar bg="light" expand="lg">
         <Navbar.Brand href="#home"> Movie Review App</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
